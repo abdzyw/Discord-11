@@ -49,9 +49,9 @@ Message bubble styles [If you don't want any place a /* in all]
     --server-size: 48px; /* The size of the server icons [48px is default] */
       
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
-    --H: 226.7; /* Value only number [226.7 is default] */
-    --S: 58.4%; /* Value in % [58.4% is default] */
-    --L: 65.1%; /* Value in % [65.1% is default] */
+    --H: 30; /* Value only number [226.7 is default] */
+    --S: 50%; /* Value in % [58.4% is default] */
+    --L: 10%; /* Value in % [65.1% is default] */
 }
 
 /*----------------------------------------------------
